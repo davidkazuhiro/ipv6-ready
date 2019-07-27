@@ -1,2 +1,4 @@
-airline,supported,isp,asn,v6a,v4a,date,flight
-ANA,no,Cogent Communications,AS174,,38.98.37.141,2019-07-27,NH115
+iata,supported,asn,date,flight
+NH,no,AS174,2019-07-27,NH115
+AC,no,AS54182,2019-07-20,AC760
+UA,no,AS174,2019-07-16,UA838
