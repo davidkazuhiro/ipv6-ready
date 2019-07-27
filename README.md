@@ -1,3 +1,3 @@
 # ipv6-ready
 
-I tested whether IPv6 works from airplanes, office buildings, and cell phones, and put the results in this repor for reference
+I tested whether IPv6 works from places like airplanes, office buildings, and cell phones, and put the results in this repor for reference
